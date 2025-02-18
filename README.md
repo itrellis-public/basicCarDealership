@@ -11,7 +11,7 @@ You will need at least the following on your workstation:
 
 ## The Test
 
-The first thing to do is to make sure you have the prerequisites (listed above) installed on your workstation, that you can open this solution, and then run the database script(DatabaseSetup.sql).
+The first thing to do is to make sure you have the prerequisites (listed above) installed on your workstation, that you can clone and open this solution, and then run the database script(DatabaseSetup.sql).
 
 After that you will pair with an iTrellis dev to add code based on the "Car Dealership" premise below. We find pairing is the best way to know if a candidate will be a fit at iTrellis.
 
