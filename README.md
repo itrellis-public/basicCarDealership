@@ -2,13 +2,12 @@
 
 ## Welcome!
 
-You are free to use whatever libraries, packages, open-source tools, or other developer productivity aids you find helpful. We recommend you **do the coding yourself**. If you engage an AI, you should be prepared to defend the design decisions.
+You are free to use whatever libraries, packages, open-source tools, or other developer productivity aids you find helpful. We recommend you **do the coding yourself**. If you engage an AI, you should be prepared to defend any code submitted.
 
 You will need at least the following on your workstation:
 - Visual Studio (2022 preferably, Code is probably fine)
 - MS SQL Server (developer edition, Express is probably fine)
 - MS Teams (for meeting with us for pairing)
-- These solution files
 
 ## The Test
 
@@ -16,7 +15,7 @@ The first thing to do is to make sure you have the prerequisites (listed above) 
 
 After that you will pair with an iTrellis dev to add code based on the "Car Dealership" premise below. We find pairing is the best way to know if a candidate will be a fit at iTrellis.
 
-If you want to write code to play around with the car dealership idea and the data before the pairing interview, that's great! Just be prepared to put that work aside if we have to go in a different direction.
+If you want to write code to play around with the car dealership idea and the data before the pairing interview, that's great! Just be prepared to put that work aside if we go in a different direction.
 
 
 ## Car Dealership
@@ -28,10 +27,16 @@ In other words, a customer should be able to say, "I want my car to have a sun r
 Car Options:
 
 Color (Red, White, Gray, Silver, Black)
+
 sun roof
+
 4 wheel drive
+
 low miles
+
 power windows
+
 navigation
+
 heated seats
 
